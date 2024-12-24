@@ -36,7 +36,10 @@ Challenges and Solutions
 
 Here are some useful links that helped me with the implementation:
 
-1.https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup 2. https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf 3. https://nextjs.org/docs/pages/building-your-application/routing/internationalization 4. https://nextui.org/docs/components/dropdown
+1.https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
+2. https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf
+3. https://nextjs.org/docs/pages/building-your-application/routing/internationalization
+4. https://nextui.org/docs/components/dropdown
 
 Steps to run the application:
 
