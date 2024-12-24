@@ -30,3 +30,20 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+:root {
+  --bacground: #ffffff;
+  --foreground: #171717;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+  --bacground: #ffffff;
+  --foreground: #171717;
+}
+}
+  body {
+  color: var(--foreground);
+  background: var(--bacgorund);
+  font-synthesis: none;
+}
+
